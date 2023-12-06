@@ -1,2 +1,2 @@
 # ProyectoFinal
-Carpeta para trabajr en el proyecto final
+Carpeta para trabajar en el proyecto final
